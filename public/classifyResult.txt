@@ -1,0 +1,38 @@
+Images,分类结果,标签
+00000049.png,1,{'Defects': ['FS']; 'Water': '0%<5%'}
+00000055.png,1,{'Defects': ['FS']; 'Water': '0%<5%'}
+00000056.png,{'Defects': ['FS'、 'AF']; 'Water': '5%-15%'},{'Defects': ['FS'、'AF']; 'Water': '0%<5%'}
+00000208.png,{'Defects': ['RB'、 'OB'、 'FS'、 'RO']; 'Water': '15%-30%'},{'Defects': ['FO']; 'Water': '5%-15%'}
+00000209.png,{'Defects': ['OB'、 'FS']; 'Water': '15%-30%'},{'Defects': ['OB'、'FS']; 'Water': '5%-15%'}
+00000211.png,{'Defects': ['OB'、 'FS']; 'Water': '30%<='},{'Defects': ['OB'、'FS']; 'Water': '5%-15%'}
+00000212.png,{'Defects': ['OB'、 'FS']; 'Water': '5%-15%'},{'Defects': ['OB'、'FS']; 'Water': '5%-15%'}
+00000213.png,{'Defects': ['RB'、 'OB'、 'FS']; 'Water': '5%-15%'},{'Defects': ['OB'、'FS'、'IS']; 'Water': '5%-15%'}
+00000214.png,{'Defects': ['RB'、 'OB'、 'FS']; 'Water': '5%-15%'},{'Defects': ['OB'、'FS'、'IS']; 'Water': '5%-15%'}
+00000215.png,{'Defects': ['RB'、 'OB'、 'FS']; 'Water': '30%<='},{'Defects': ['OB'、'FS']; 'Water': '5%-15%'}
+00000216.png,{'Defects': ['RB'、 'OB'、 'FS'、 'RO']; 'Water': '5%-15%'},{'Defects': ['OB'、'FS'、'OS'、'OK']; 'Water': '5%-15%'}
+00000217.png,{'Defects': ['OS']; 'Water': '5%-15%'},{'Defects': ['OB'、'FS'、'OS'、'OK']; 'Water': '5%-15%'}
+00000218.png,1,{'Defects': ['OB'、'FS'、'OS'、'OK']; 'Water': '5%-15%'}
+00000219.png,{'Defects': ['OB'、 'FS']; 'Water': '15-30%'},{'Defects': ['OB'、 'FS']; 'Water': '15%-30%'}
+00000221.png,1,{'Defects': ['AF']; 'Water': '0%<5%'}
+00000222.png,1,{'Defects': ['AF']; 'Water': '0%<5%'}
+00000234.png,{'Defects': ['OB'、 'FS']; 'Water': '5%-15%'},{'Defects': ['RB'、 'OB']; 'Water': '0%<5%'}
+00000235.png,1,{'Defects': ['RB']; 'Water': '0<5%'}
+00000236.png,{'Defects': ['OB'、 'FS']; 'Water': '5%-15%'},{'Defects': ['OB']; 'Water': '0%<5%'}
+00000254.png,1,{'Defects': ['PF']; 'Water': '0%<5%'}
+00000441.png,1,1
+00000442.png,{'Defects': ['DE']; 'Water': '0%<5%'},{'Defects': ['DE']; 'Water': '0%<5%'}
+00000457.png,1,{'Defects': ['OK']; 'Water': '0%<5%'}
+00000458.png,1,{'Defects': ['OK']; 'Water': '0%<5%'}
+00000460.png,{'Defects': ['PF'、 'BE']; 'Water': '0%<5%'},{'Defects': ['PF'、 'BE']; 'Water': '0%<5%'}
+00000465.png,1,1
+00000466.png,{'Defects': ['OK']; 'Water': '0%<5%'},{'Defects': ['OK']; 'Water': '0%<5%'}
+00000467.png,1,1
+00000468.png,1,1
+00000469.png,{'Defects': ['PF'、 'BE']; 'Water': '0%<5%'},{'Defects': ['PF'、 'BE']; 'Water': '0%<5%'}
+00000471.png,{'Defects': ['BE']; 'Water': '0%<5%'},{'Defects': ['BE']; 'Water': '0%<5%'}
+00000472.png,1,1
+00000473.png,1,1
+00000475.png,{'Defects': ['BE']; 'Water': '0%<5%'},1
+00000621.png,{'Defects': ['BE']; 'Water': '0%<5%'},{'Defects': ['PF'、 'BE']; 'Water': '0%<5%'}
+00000623.png,{'Defects': ['PB']; 'Water': '0%<5%'},{'Defects': ['PF']; 'Water': '0%<5%'}
+00001047.png,{'Defects': ['OK']; 'Water': '0%<5%'},{'Defects': ['OK']; 'Water': '0%<5%'}
